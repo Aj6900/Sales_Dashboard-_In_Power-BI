@@ -29,7 +29,7 @@ It helps visualize key business insights such as total sales, profit, loss, and 
 📂 Files in this Repository
 | File Name | Description |
 |------------|-------------|
-| Sales_Data.xlsx | Raw sales dataset used to create dashboard |
+| Sales_Dashboard_Dataset.xlsx| Raw sales dataset used to create dashboard |
 | README.md | Project documentation and details |
 
 ---
